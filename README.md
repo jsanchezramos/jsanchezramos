@@ -3,7 +3,7 @@
 <a href="https://twitter.com/juanfrasr">
   <img align="left" alt="Juan francisco Sanchez Ramos | Twitter" width="21px" src="https://raw.githubusercontent.com/jsanchezramos/jsanchezramos/main/icons/twitter.png" />
 </a>
-<a href="https://github.com/juanfrasr">
+<a href="https://github.com/jsanchezramos">
   <img align="left" alt="Juan francisco Sanchez Ramos | GitHub" width="21px" src="https://raw.githubusercontent.com/jsanchezramos/jsanchezramos/main/icons/github.png" />
 </a>
 <a href="https://www.linkedin.com/in/juanfrasr">
@@ -16,13 +16,27 @@
 <br />
 <br />
 
-Here are some ideas to get you started:
+Hello my name is Juan Francisco Sánchez Ramos and I am a Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm a Software Engineer at [@mytheresa](https://github.com/mytheresa)
+- 🌱 I’m currently learning Mastering with Goland, Kotlin and Kubernetes
+- 💬 Ask me about [here](https://github.com/jsanchezramos/jsanchezramos/issues)
+- 📫 How to reach me: email or social media
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/java/java.png"></code>
+
+**GitHub Stats:**  
+
+<a href="https://github.com/jsanchezramos/jsanchezramos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsanchezramos&hide=ruby,html,puppet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=294257" />
+</a>
+<a href="https://github.com/jsanchezramos/jsanchezramos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsanchezramos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=294257" alt="jsanchezramos's GitHub Stats" />
+</a>
