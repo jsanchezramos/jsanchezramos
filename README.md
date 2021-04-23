@@ -35,8 +35,5 @@ Hello my name is Juan Francisco Sánchez Ramos and I am a Software Engineer
 **GitHub Stats:**  
 
 <a href="https://github.com/jsanchezramos/jsanchezramos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsanchezramos&hide=ruby,html,puppet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=294257" />
-</a>
-<a href="https://github.com/jsanchezramos/jsanchezramos">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsanchezramos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=294257" alt="jsanchezramos's GitHub Stats" />
 </a>
