@@ -20,7 +20,6 @@ Hello my name is Juan Francisco Sánchez Ramos and I am a Software Engineer
 
 - 🔭 I'm a Software Engineer at [@mytheresa](https://github.com/mytheresa)
 - 🌱 I’m currently learning Mastering with Goland, Kotlin and Kubernetes
-- 💬 Ask me about [here](https://github.com/jsanchezramos/jsanchezramos/issues)
 - 📫 How to reach me: email or social media
 
 **Languages and Tools:**  
