@@ -30,9 +30,3 @@ Hello my name is Juan Francisco Sánchez Ramos and I am a Software Engineer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/java/java.png"></code>
-
-**GitHub Stats:**  
-
-<a href="https://github.com/jsanchezramos/jsanchezramos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsanchezramos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=294257" alt="jsanchezramos's GitHub Stats" />
-</a>
